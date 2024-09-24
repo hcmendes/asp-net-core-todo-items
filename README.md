@@ -11,5 +11,4 @@ Execute the `dotnet run` command inside `asp-net-core-todo-items/todo-items` fol
 
 The swagger page will be accessible at `http://localhost:5271/swagger` (the port number may change, check the console to get the correct one)
 
-![](https://raw.githubusercontent.com/hcmendes/asp-net-core-todo-items
-/master/todo-items-swagger.png)
+![](https://raw.githubusercontent.com/hcmendes/asp-net-core-todo-items/master/todo-items-swagger.png)
