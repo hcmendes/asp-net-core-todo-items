@@ -36,3 +36,4 @@
 /home/hilton/projects/asp-net-core-todo-items/todo-items/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Abstractions.dll
 /home/hilton/projects/asp-net-core-todo-items/todo-items/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.InMemory.dll
 /home/hilton/projects/asp-net-core-todo-items/todo-items/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Relational.dll
+/home/hilton/projects/asp-net-core-todo-items/todo-items/obj/Debug/net8.0/todo-items.sourcelink.json
